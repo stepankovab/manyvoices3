@@ -1,4 +1,4 @@
-N = 20;
+N = 24;
 d = zeros(N, 1);
 sgm = zeros(N, 1);
 speakerID = strings(N, 1);  % 用 string 类型存储 speaker 编号
